@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>EX_6.1</module>
+        <module>EX_6.2</module>
     </modules>
 
     <properties>
