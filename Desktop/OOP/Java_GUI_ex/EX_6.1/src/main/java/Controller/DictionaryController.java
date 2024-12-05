@@ -1,5 +1,7 @@
 package Controller;
 
+import Model.Dictionary;
+
 public class DictionaryController {
     private Dictionary dictionary;
 

@@ -1,5 +1,6 @@
 package View;
 
+import Controller.DictionaryController;
 import Model.Dictionary;
 import javafx.application.Application;
 import javafx.geometry.Insets;
